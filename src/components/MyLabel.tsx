@@ -6,7 +6,7 @@ export interface MyLabelProps {
    */
   label?: string;
   /**
-   * Este será el tamaño de la etiqueta
+   * Este será el tamaño que tendra la  etiqueta
    */
   size?: "normal" | "h1" | "h2" | "h3";
   /**
